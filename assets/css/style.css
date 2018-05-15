@@ -1,0 +1,11 @@
+body{
+    background: black;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 80px;
+}
+
+#title, #game{
+    text-align: center;
+}
